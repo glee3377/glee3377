@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... ?
 - ⚡ Fun fact: ... I wanted to be a writer
 -->
-![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeun lee&show_icons=true&theme=radical)
+![Gaeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaeun&show_icons=true&theme=radical)
